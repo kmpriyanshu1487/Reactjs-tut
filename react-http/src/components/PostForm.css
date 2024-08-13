@@ -1,0 +1,32 @@
+.btn {
+    background-color: #575757;
+    color: #c35e5e;
+    height: 30px;
+    width: 100px;
+}
+
+#thisisform {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+form{
+    border: 1px solid #000;
+    width: 550px;
+    height: 600px;
+    
+}
+form input{
+    height: 40px;
+    width: 400px;
+    background-color: #d5d4d4;
+    border: none;
+    padding: 5px;
+}
+
+form div{
+   margin: 30px;
+    
+}
